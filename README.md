@@ -23,3 +23,14 @@ This project is part of my AI/ML internship. The goal is to clean and prepare he
 ## 🎯 Prediction Target
 - `RiskOfUpcomingCardiacEvent` — 1 = High Risk, 0 = Low Risk
 
+## ✅ Task 2: Exploratory Data Analysis (EDA)
+- Generated summary statistics (mean, median, std, etc.)
+- Visualized distributions with histograms and boxplots
+- Explored feature relationships using a correlation matrix and pairplot
+- Compared key features (heart rate, BP, cholesterol) across cardiac event groups
+- Included an optional interactive Plotly chart
+- Gained early insights for feature importance and risk prediction
+
+🗂 Notebook: [`heart_EDA.ipynb`](./heart_EDA.ipynb)
+
+
